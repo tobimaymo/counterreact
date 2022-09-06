@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.boton {
+  padding: 5px;
+  margin: 5px;
+  color: lightblue;
+}
+.texto{
+  padding: 20px;
+  border: solid 2px black;
+  margin: 10px;
+}
+.count {
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid black;
+}
